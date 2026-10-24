@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-24",
+  "tool": "built-in image_gen",
+  "purpose": "Вымышленные презентационные изображения. Не являются фотографиями пансионата.",
+  "assets": [
+    {
+      "file": "hero-v2.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset: a single editorial photograph for a presentation website of a small elderly care home in Chelyabinsk, Russia, named Novy Den. This is a fictional AI presentation photograph, not documentation of a real facility. Restrained white, powder-blue and grey interior, pale natural wood, modest comfortable residential furnishings, clean realistic textures, soft overcast daylight, natural camera, no luxury hotel, no hospital or clinical equipment, no text, logos, watermark, exterior, garden or territory. Landscape 3:2 framing. Scene: an elderly woman with grey hair seated in a comfortable pale grey armchair, a middle-aged female caregiver in ordinary light blue everyday clothing sits beside her, listening with warmth and handing her a cup of tea. Natural unposed expressions, realistic age and hands. Both faces and cup grouped in central half of composition with generous space around them to survive wide and square crops. Eye level editorial photograph."
+    },
+    {
+      "file": "room-v2.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset: a single editorial photograph for a presentation website of a small elderly care home in Chelyabinsk, Russia, named Novy Den. This is a fictional AI presentation photograph, not documentation of a real facility. Restrained white, powder-blue and grey interior, pale natural wood, modest comfortable residential furnishings, clean realistic textures, soft overcast daylight, natural camera, no luxury hotel, no hospital or clinical equipment, no text, logos, watermark, exterior, garden or territory. Landscape 3:2 framing. Scene: a tidy modest shared bedroom, two neatly made single beds with pale blue bedding, bedside tables, large bright window, easy circulation between beds, no people. Wide view from doorway, residential rather than clinical, believable small care home room."
+    },
+    {
+      "file": "living-v2.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset: a single editorial photograph for a presentation website of a small elderly care home in Chelyabinsk, Russia, named Novy Den. This is a fictional AI presentation photograph, not documentation of a real facility. Restrained white, powder-blue and grey interior, pale natural wood, modest comfortable residential furnishings, clean realistic textures, soft overcast daylight, natural camera, no luxury hotel, no hospital or clinical equipment, no text, logos, watermark, exterior, garden or territory. Landscape 3:2 framing. Scene: a compact homely common sitting room, grey sofa, two powder-blue armchairs, low wood coffee table, bookshelf with books, neutral curtains, one small indoor plant. No people. Balanced eye-level wide shot with furniture clearly readable."
+    },
+    {
+      "file": "dining-v2.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset: a single editorial photograph for a presentation website of a small elderly care home in Chelyabinsk, Russia, named Novy Den. This is a fictional AI presentation photograph, not documentation of a real facility. Restrained white, powder-blue and grey interior, pale natural wood, modest comfortable residential furnishings, clean realistic textures, soft overcast daylight, natural camera, no luxury hotel, no hospital or clinical equipment, no text, logos, watermark, exterior, garden or territory. Landscape 3:2 framing. Scene: a small bright residential dining room, a light oak dining table set simply for four, stable chairs with arms, plain white plates and cups, soft blue curtains, no people, no banquet or luxury restaurant styling."
+    },
+    {
+      "file": "bath-v2.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset: a single editorial photograph for a presentation website of a small elderly care home in Chelyabinsk, Russia, named Novy Den. This is a fictional AI presentation photograph, not documentation of a real facility. Restrained white, powder-blue and grey interior, pale natural wood, modest comfortable residential furnishings, clean realistic textures, soft overcast daylight, natural camera, no luxury hotel, no hospital or clinical equipment, no text, logos, watermark, exterior, garden or territory. Landscape 3:2 framing. Scene: a compact accessible bathroom, light grey nonslip floor tiles, white walls, walk-in shower without a raised threshold, sturdy wall grab rails, a white shower seat, simple sink with lever tap. No people. Realistic physically plausible safety fittings, no medical devices."
+    },
+    {
+      "file": "lunch-v2.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset: a single editorial photograph for a presentation website of a small elderly care home in Chelyabinsk, Russia, named Novy Den. This is a fictional AI presentation photograph, not documentation of a real facility. Restrained white, powder-blue and grey interior, pale natural wood, modest comfortable residential furnishings, clean realistic textures, soft overcast daylight, natural camera, no luxury hotel, no hospital or clinical equipment, no text, logos, watermark, exterior, garden or territory. Landscape 3:2 framing. Scene: close three-quarter overhead food photograph of a simple fresh home-style lunch on a pale wood table: white bowl of beet soup, white plate with buckwheat and one meat patty, small cucumber tomato salad, glass of compote. Modest realistic portions and natural food, no elaborate styling or cutlery clutter."
+    },
+    {
+      "file": "logo-placeholder.png",
+      "prompt": "Use case: logo-brand. Asset: temporary logo symbol for a Russian elderly care home website named Новый день, matching both a rounded friendly blue design and a refined navy editorial design. Create ONE clean minimal flat symbol: a soft semicircle rising sun nested above a simple rounded doorway or shelter arch, expressing a new day and a welcoming home. Two solid colors only: navy #1F3A52 and muted blue #2F6690. Bold simple geometry, balanced silhouette legible at 48 pixels, generous transparent margins, square composition. Genuine transparent background. Symbol only: no letters, words, slogan, numbers, heart, medical cross, gradients, shadows, mockup or presentation board."
+    }
+  ]
+}
