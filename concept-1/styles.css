@@ -111,6 +111,14 @@ p { margin: 0; }
 .included h3 { font-size: 24px; margin-bottom: 14px; }
 .included p { color: var(--text); }
 .included .note { margin-top: 12px; color: var(--muted); font-size: 18px; }
+.opening-offer { margin-top: 20px; padding: 36px; border: 1px solid var(--border); border-radius: 28px; background: #E6EFF6; }
+.opening-offer__intro h3 { font-size: 30px; line-height: 1.2; }
+.opening-offer__intro p { margin-top: 10px; color: var(--text); }
+.opening-offer__options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin: 24px 0 0; padding: 0; list-style: none; }
+.opening-offer__options li { display: flex; flex-direction: column; gap: 6px; padding: 20px 24px; border-radius: 16px; background: var(--bg); }
+.opening-offer__options span { color: var(--text); }
+.opening-offer__options strong { color: var(--accent); font-size: 24px; line-height: 1.3; }
+.opening-offer__note { margin-top: 20px; color: var(--text); font-size: 18px; }
 
 /* Шаги */
 .steps { margin: 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
@@ -174,7 +182,8 @@ p { margin: 0; }
   .hero__actions .btn { width: 100%; }
   .services, .reviews { grid-template-columns: 1fr; }
   .gallery figure.is-big { grid-row: span 1; }
-  .tariff, .included { padding: 24px; }
+  .tariff, .included, .opening-offer { padding: 24px; }
+  .opening-offer__options { grid-template-columns: 1fr; }
   .included > .btn { width: 100%; padding-inline: 16px; }
   .callback { padding: 24px; }
   .callback__row .btn { width: 100%; }
